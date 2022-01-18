@@ -1,5 +1,10 @@
 # 前端代码质量
 
+## 依赖
+
+需要安装`eslint`, `eslint-plugin-import`, `eslint-plugin-react`, `eslint-plugin-react-hooks`, `eslint-plugin-jsx-a11y`
+
+
 ## 代码规范
 
 ### ES/JSX
