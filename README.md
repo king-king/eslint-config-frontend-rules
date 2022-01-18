@@ -4,6 +4,9 @@
 
 需要安装`eslint`, `eslint-plugin-import`, `eslint-plugin-react`, `eslint-plugin-react-hooks`, `eslint-plugin-jsx-a11y`
 
+```bash
+npm i eslint-plugin-import eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y -d --save-dev
+```
 
 ## 代码规范
 
